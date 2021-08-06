@@ -6,5 +6,6 @@ public class day6firstClass {
 
 
         //1
+        //2
     }
 }
